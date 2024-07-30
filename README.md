@@ -9,8 +9,6 @@ This project uses a Support Vector Machine (SVM) model to predict the position o
 - [Usage](#usage)
 - [Features](#features)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
