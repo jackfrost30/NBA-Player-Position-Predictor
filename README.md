@@ -20,8 +20,7 @@ To get started, clone the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jackfrost30/nba-player-position-predictor.git
-   cd nba-player-position-predictor
+   git clone https://github.com/jackfrost30/NBA-Player-Position-Predictor.git
 
 ## Usage
 
